@@ -1,0 +1,115 @@
+
+h1{
+	font-family:Catamaran;
+	font-size: 30px;
+	font-weight: 100px;
+	line-height: 70px;
+	text-align: center;
+}
+
+.index-banner {
+	margin: 16px 16px 0;
+	width: calc(35% - 60px);
+	background-color: gray;
+	float:left;
+	border: 2px solid #111;
+}
+.index-banner2 {
+	margin: 16px 16px 0;
+	width: calc(35% - 60px);
+	background-color: gray;
+	float: left;
+	border: 2px solid #111;
+}
+.index-banner3 {
+	margin: 16px 16px 0;
+	width: calc(35% - 60px);
+	background-color: gray;
+	float: left;
+	border: 2px solid #111;
+}
+.index-link, .wrapper1 {
+	background-color: pink;
+	
+}
+
+.index-link2, .wrapper-2 {
+	background-color: brown;
+	
+}
+
+.index-link3, .wrapper-3{
+	background-color: khaki;
+	
+}
+.index-link  {
+	
+	width: 120px;
+	height: 30px;
+	float:right;
+	border: 2px solid black;
+	border-top:none;
+	border-right:none;
+
+	
+}
+.index-link2  {
+	
+	width: 120px;
+	height: 30px;
+	float:right;
+	border: 2px solid black;
+	border-top:none;
+	border-right:none;
+	
+}
+.index-link3 {
+	
+	width: 120px;
+	height:30px;
+	float:right;
+	border: 2px solid black;
+	border-top:none;
+	border-right:none;
+}
+.wrapper-1 h2{
+	font-family: Catamaran;
+	font-size:20px;
+	font-weight: 200;
+	text-align: center;
+	margin-top:3px;
+	
+}
+.wrapper-2 h2 {
+	font-family: Catamaran;
+	font-size:20px;
+	font-weight: 200;
+	text-align: center;
+	margin-top:3px;
+	color:white;
+}
+.wrapper-3 h2 {
+	font-family: Catamaran;
+	font-size:20px;
+	font-weight: 200;
+	text-align: center;
+	margin-top:3px;
+}
+.index-banner p{
+	margin-top:35px;
+	margin-left:10px;
+	margin-right:10px;
+	word-wrap:break-word;
+}
+.index-banner2 p{
+	margin-top:35px;
+	margin-left:10px;
+	margin-right:10px;
+	word-wrap:break-word;
+}
+.index-banner3 p{
+	margin-top:35px;
+	margin-left:10px;
+	margin-right:10px;
+	word-wrap:break-word;
+}
